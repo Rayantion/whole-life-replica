@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "首頁",
+    "bazi": "八字",
+    "ziwei": "紫微",
+    "vedic": "吠陀",
+    "humanDesign": "人類圖",
+    "login": "登入",
+    "logout": "登出",
+    "admin": "管理員"
+  },
+  "home": {
+    "title": "命運守護者",
+    "subtitle": "探索你的命運藍圖",
+    "description": "透過八字、紫微斗數、吠陀占星與人類圖，深入了解你的天賦、挑戰與人生方向。",
+    "startButton": "開始探索",
+    "features": {
+      "bazi": {
+        "title": "八字命理",
+        "desc": "根據出生年月日時，分析五行生剋與大運流年。"
+      },
+      "ziwei": {
+        "title": "紫微斗數",
+        "desc": "以星曜排列解讀性格、事業、感情與財運。"
+      },
+      "vedic": {
+        "title": "吠陀占星",
+        "desc": "古老的印度占星術，揭示靈魂的使命與業力。"
+      },
+      "humanDesign": {
+        "title": "人類圖",
+        "desc": "結合占星、易經與卡巴拉，了解你的能量類型。"
+      }
+    }
+  },
+  "login": {
+    "title": "登入",
+    "email": "電子郵件",
+    "password": "密碼",
+    "submit": "登入",
+    "error": "登入失敗，請檢查帳號密碼。",
+    "required": "此欄位為必填"
+  },
+  "bazi": {
+    "title": "八字命理",
+    "birthDate": "出生日期",
+    "birthTime": "出生時間",
+    "gender": "性別",
+    "male": "男",
+    "female": "女",
+    "calculate": "計算命盤",
+    "result": "計算結果",
+    "loading": "計算中...",
+    "error": "計算失敗，請稍後再試。"
+  },
+  "ziwei": {
+    "title": "紫微斗數",
+    "birthDate": "出生日期",
+    "birthTime": "出生時間",
+    "gender": "性別",
+    "male": "男",
+    "female": "女",
+    "calculate": "排盤",
+    "result": "命盤結果",
+    "loading": "排盤中...",
+    "error": "排盤失敗，請稍後再試。"
+  },
+  "vedic": {
+    "title": "吠陀占星",
+    "birthDate": "出生日期",
+    "birthTime": "出生時間",
+    "birthPlace": "出生地點",
+    "calculate": "計算星盤",
+    "result": "星盤結果",
+    "loading": "計算中...",
+    "error": "計算失敗，請稍後再試。"
+  },
+  "humanDesign": {
+    "title": "人類圖",
+    "birthDate": "出生日期",
+    "birthTime": "出生時間",
+    "birthPlace": "出生地點",
+    "calculate": "產生人類圖",
+    "result": "人類圖結果",
+    "loading": "產生中...",
+    "error": "產生失敗，請稍後再試。"
+  },
+  "admin": {
+    "title": "管理員面板",
+    "users": "用戶管理",
+    "readings": "占卜記錄",
+    "stats": "統計數據",
+    "noAccess": "無權限訪問此頁面"
+  },
+  "common": {
+    "loading": "載入中...",
+    "error": "發生錯誤",
+    "retry": "重試",
+    "back": "返回",
+    "close": "關閉"
+  }
+}

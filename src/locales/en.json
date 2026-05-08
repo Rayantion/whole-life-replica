@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "Home",
+    "bazi": "Bazi",
+    "ziwei": "Ziwei",
+    "vedic": "Vedic",
+    "humanDesign": "Human Design",
+    "login": "Login",
+    "logout": "Logout",
+    "admin": "Admin"
+  },
+  "home": {
+    "title": "Guardian of Destiny",
+    "subtitle": "Explore Your Destiny Blueprint",
+    "description": "Discover your talents, challenges, and life direction through Bazi, Ziwei, Vedic Astrology, and Human Design.",
+    "startButton": "Start Exploring",
+    "features": {
+      "bazi": {
+        "title": "Bazi (Four Pillars)",
+        "desc": "Analyze the five elements and major cycles based on birth date and time."
+      },
+      "ziwei": {
+        "title": "Ziwei Dou Shu",
+        "desc": "Interpret personality, career, relationships, and fortune through star arrangements."
+      },
+      "vedic": {
+        "title": "Vedic Astrology",
+        "desc": "Ancient Indian astrology revealing your soul's mission and karma."
+      },
+      "humanDesign": {
+        "title": "Human Design",
+        "desc": "Combines astrology, I Ching, and Kabbalah to understand your energy type."
+      }
+    }
+  },
+  "login": {
+    "title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Login",
+    "error": "Login failed. Please check your credentials.",
+    "required": "This field is required"
+  },
+  "bazi": {
+    "title": "Bazi (Four Pillars)",
+    "birthDate": "Birth Date",
+    "birthTime": "Birth Time",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "calculate": "Calculate Chart",
+    "result": "Calculation Result",
+    "loading": "Calculating...",
+    "error": "Calculation failed. Please try again later."
+  },
+  "ziwei": {
+    "title": "Ziwei Dou Shu",
+    "birthDate": "Birth Date",
+    "birthTime": "Birth Time",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "calculate": "Generate Chart",
+    "result": "Chart Result",
+    "loading": "Generating...",
+    "error": "Generation failed. Please try again later."
+  },
+  "vedic": {
+    "title": "Vedic Astrology",
+    "birthDate": "Birth Date",
+    "birthTime": "Birth Time",
+    "birthPlace": "Birth Place",
+    "calculate": "Calculate Chart",
+    "result": "Chart Result",
+    "loading": "Calculating...",
+    "error": "Calculation failed. Please try again later."
+  },
+  "humanDesign": {
+    "title": "Human Design",
+    "birthDate": "Birth Date",
+    "birthTime": "Birth Time",
+    "birthPlace": "Birth Place",
+    "calculate": "Generate Chart",
+    "result": "Chart Result",
+    "loading": "Generating...",
+    "error": "Generation failed. Please try again later."
+  },
+  "admin": {
+    "title": "Admin Panel",
+    "users": "User Management",
+    "readings": "Reading History",
+    "stats": "Statistics",
+    "noAccess": "You do not have permission to access this page"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "back": "Back",
+    "close": "Close"
+  }
+}

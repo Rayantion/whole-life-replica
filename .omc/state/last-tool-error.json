@@ -1,0 +1,7 @@
+{
+  "tool_name": "WebFetch",
+  "tool_input_preview": "{\"url\":\"https://bazi-backend-production-411f.up.railway.app/\",\"prompt\":\"List all available API endpoints, routes, or any documentation visible on this page. Also look for any error messages that revea...",
+  "error": "Request failed with status code 404",
+  "timestamp": "2026-05-08T03:03:57.817Z",
+  "retry_count": 2
+}
